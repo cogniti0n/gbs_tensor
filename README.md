@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a crude implementation based on the two following papers.
+This is a small part of a project conducted for 'Computation, Learning, and Physics, 2025 Spring'. The code is a crude implementation based on the two following papers.
 
 - Cilluffo, D., Lorenzoni, N., & Plenio, M. B. (2023). Simulating Gaussian Boson Sampling with Tensor Networks in the Heisenberg picture. In arXiv [quant-ph]. arXiv. http://arxiv.org/abs/2305.11215
 - Wu, Y.-H., Wang, L., & Tu, H.-H. (2020). Tensor network representations of parton wave functions. Physical Review Letters, 124(24), 246401.
