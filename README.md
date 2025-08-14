@@ -1,4 +1,4 @@
-# Boson Sampling / Gaussian Boson Sampling Using Tensor Networks
+# BS/GBS Using Tensor Networks
 
 ## Project Overview
 
